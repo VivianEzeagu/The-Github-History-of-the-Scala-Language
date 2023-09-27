@@ -3,4 +3,4 @@ With almost 30k commits and a history spanning over ten years, Scala is a mature
 
 Scala is also an open source project. Open source projects have the advantage that their entire development histories -- who made changes, what was changed, code reviews, etc. -- are publicly available.
 
-The aim of this projectis to find out who has had the most influence on its development and who are the experts.
+The aim of this project is to find out who has had the most influence on its development and who are the experts.
